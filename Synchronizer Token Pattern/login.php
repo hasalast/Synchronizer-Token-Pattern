@@ -16,7 +16,7 @@ html, body {
 #container {
     position: fixed;
     width: 340px;
-    heiht: 280px;
+    heigt: 280px;
     top: 50%;
     left: 50%;
     margin-top: -140px;
